@@ -13,6 +13,10 @@ function TinderCards() {
         {
             name : "Mak Jukerberg",
             url : "https://upload.wikimedia.org/wikipedia/commons/e/ef/MarkZuckerberg.jpg"
+        },
+        {
+            name : "Arifur Rahman Limon",
+            url : "https://ibb.co/R6dZ0RL"
         }
     ]
     );

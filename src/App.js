@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Header from './Header';
 import TinderCards from './TinderCard';
+import SwipeButton from './SwipeButton';
 
 class App extends Component {
     state = {  } 
@@ -9,6 +10,7 @@ class App extends Component {
             <div>
             <Header />
             <TinderCards />
+            <SwipeButton />
             </div>
         );
     }
